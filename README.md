@@ -48,10 +48,6 @@ The system verifies an RFID card and controls the door-locking mechanism based o
 * Automated door locking
 * Hardware-software integration
 
-## 📷 Project Images
-
-Project images and hardware setup photos will be added here.
-
 ## 🚀 Future Improvements
 
 * Mobile application integration
